@@ -8,7 +8,7 @@ import static junit.framework.TestCase.assertEquals;
 public class FizzBuzzTest {
     @Test
     public void FizzBuzz_3() {
-        assertEquals("Fizz", FizzBuzz.result(3));
+        assertEquals("Fizz", FizzBuzz.result(4));
     }
 
     @Test
