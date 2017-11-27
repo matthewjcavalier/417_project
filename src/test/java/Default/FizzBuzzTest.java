@@ -13,8 +13,8 @@ public class FizzBuzzTest {
 
     @Test
     public void FizzBuzz_4(){
-        //assertEquals("4", FizzBuzz.result(4));
-        assertEquals("-1", FizzBuzz.result(4));
+        assertEquals("4", FizzBuzz.result(4));
+        //assertEquals("-1", FizzBuzz.result(4));
     }
 
     @Test
